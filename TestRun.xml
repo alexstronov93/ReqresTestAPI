@@ -1,0 +1,8 @@
+<suite name="ReqresTestApi" verbose="1">
+    <test name="ApiTest">
+        <classes>
+        <class name="ApiTest">
+        </class>
+        </classes>
+    </test>
+</suite>
